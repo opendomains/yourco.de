@@ -1,4 +1,4 @@
 
 module.exports = {
-  "": "opendomains.github.io/yourco.de"
+  "": "opendomains.github.io/yourco.de",
 }
