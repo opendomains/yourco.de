@@ -19,4 +19,5 @@ module.exports = [
   "imap", // blocked
   "pop", // blocked
   "admin", // blocked
+  "donate", // blocked
 ]
