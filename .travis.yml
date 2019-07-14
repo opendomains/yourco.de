@@ -9,5 +9,5 @@ before_install:
 
 script:
   - cd script
-  - yarn start
+  - yarn ci
   - cd ..
