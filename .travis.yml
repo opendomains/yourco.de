@@ -3,11 +3,11 @@ node_js:
   - "7"
 
 before_install:
-  - cd script
+  - cd scripts
   - yarn
   - cd ..
 
 script:
-  - cd script
+  - cd scripts
   - yarn ci
   - cd ..
