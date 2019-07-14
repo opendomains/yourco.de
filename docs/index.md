@@ -1,4 +1,6 @@
 # yourco.de
+[![Donate](https://img.shields.io/badge/Donate-for_registrar_fees-blue.svg?style=flat-square&logo=paypal)](https://bit.ly/2XKAy8w)
+
 `yourco.de` is part of the project [Open Domains](https://opendomains.github.io), which aims to provide **free subdomains** to every developer and their projects.
 The project was inspired by [js.org](https://js.org).
 
