@@ -1,3 +1,13 @@
 language: node_js
 node_js:
   - "7"
+
+before_install:
+  - cd script
+  - yarn
+  - cd ..
+
+script:
+  - cd script
+  - yarn start
+  - cd ..
